@@ -1,0 +1,16 @@
+Comandos que usei no terminal e para o que serve:
+  
+  Comando : npm install -g expo-cli
+  Por que : O Expo CLI facilita a criação e execução de projetos React Native.
+  
+  Comando : npx create-expo-app BibliotecaPessoal
+  Por que : Cria a estrutura inicial do projeto "Biblioteca Pessoal".
+
+  Comando : npx expo start
+  Por que : Inicia o servidor do Expo para rodar o app no ​​emulador ou celular.
+
+git init
+git add .
+git commit -m "Projeto inicial Biblioteca Pessoal"
+git remote add origin https://github.com/AnthonySinclair448/BibliotecaPessoal.git
+git push origin main
